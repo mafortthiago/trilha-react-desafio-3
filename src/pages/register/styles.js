@@ -68,8 +68,18 @@ export const EsqueciText = styled.p`
   color: #e5e044;
 `;
 
-export const CriarText = styled.button`
+export const CriarText = styled.p`
   font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #23dd7a;
+`;
+
+export const EntrarText = styled.p`
+  font-family: "Open Sans", serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
